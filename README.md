@@ -16,18 +16,12 @@
 # 2. How to use
 
 * Create a model
-  * Execute Jupyter notebook : **_2_train.ipynb**<br>
-  （This notebook executes **_1_setup_dataset.ipynb** in its first part.)
+  * Execute Jupyter notebook : **_1_train.ipynb**<br>
 
 <br>
 
 * Predict image(s)
-  * Execute Jupyter notebook : **_3_predict.ipynb**
-
-<br>
-
-* Prepare input dataset
-  * Execute Jupyter notebook : **_1_setup_dataset.ipynb**
+  * Execute Jupyter notebook : **_2_predict.ipynb**
 
 <br>
 
@@ -45,14 +39,13 @@
 | dataset | Dir | image files|
 | dataset/images.zip | File | a compressed file of 810 photo images |
 | model | Dir | Machine learning model |
-| model/best_model_2.12.0.h5 | File | trained model |
+| model/best_model_2.13.0.h5 | File | trained model |
 | output | Dir | working directory |
-| _1_setup_dataset.ipynb | File | unzip images.zip and prepare input data |
-| _2_train.ipynb | File | create a model |
-| _3_predict.ipyno | File | prediect image(s) |
+| _1_train.ipynb | File | create a model |
+| _2_predict.ipyno | File | prediect image(s) |
 | READMD.md | File ||
 | requirements.txt | File | prerequisite libraries |
-
+| setup_dataset.ipynb | File | unzip images.zip and prepare input data |
 
 ## contents of images.zip
 
