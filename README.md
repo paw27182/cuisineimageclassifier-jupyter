@@ -4,8 +4,6 @@
 
 * 写真イメージの分類器を生成し，この分類器を用いて写真イメージを分類できます<br>
   To create an image-classifier model, and predict images by the model.
-* TensorFlow CNNを使ったモデルの学習・予測の仕方の例を学べます<br>
-  To learn an example how to create machine learning models using TensorFlow CNN.
 
 <br>
 
@@ -28,7 +26,7 @@
 # 3. System
 * OS: Windows 10, Ubuntu 20.04.6 LTS<br>
 * Python 3.10.11<br>
-* Python Libraries: matplotlib numpy Pillow seaborn scikit-learn tensorflow jupyter
+* Python Libraries: See the requirements.txt file
 
 <br>
 
