@@ -43,7 +43,7 @@
 | output | Dir | working directory |
 | _1_train.ipynb | File | create a model |
 | _2_predict.ipyno | File | prediect image(s) |
-| READMD.md | File ||
+| README.md | File ||
 | requirements.txt | File | prerequisite libraries |
 | setup_dataset.ipynb | File | unzip images.zip and prepare input data |
 
