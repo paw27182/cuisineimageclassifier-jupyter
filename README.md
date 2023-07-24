@@ -13,6 +13,8 @@
 
 # 2. How to use
 
+* Install the prerequisite python libraries
+
 * Create a model
   * Execute Jupyter notebook : **_1_train.ipynb**<br>
 
