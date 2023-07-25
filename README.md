@@ -2,8 +2,7 @@
 
 # 1. What you can do
 
-* 写真イメージの分類器を生成し，この分類器を用いて写真イメージを分類できます<br>
-  To create an image-classifier model, and predict images by the model.
+* To create an image-classifier model, and predict images by the model.
 
 <br>
 
