@@ -14,6 +14,11 @@
 
 * Install the prerequisite python libraries
 
+* Activate Jupyter notebook
+  * $ jupyter notebook
+
+<br>
+
 * Create a model
   * Execute Jupyter notebook : **_1_train.ipynb**<br>
 
