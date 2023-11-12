@@ -31,7 +31,7 @@
 
 # 3. System
 * OS: Windows 10, Ubuntu 20.04.6 LTS<br>
-* Python 3.11.4<br>
+* Python 3.11.6<br>
 * Python Libraries: See the requirements.txt file
 
 <br>
