@@ -31,7 +31,7 @@
 
 # 3. System
 * OS: Windows 10, Ubuntu 20.04.6 LTS<br>
-* Python 3.11.6<br>
+* Python 3.12.7<br>
 * Python Libraries: See the requirements.txt file
 
 <br>
@@ -43,7 +43,7 @@
 | dataset | Dir | image files|
 | dataset/images.zip | File | a compressed file of 810 photo images |
 | model | Dir | Machine learning model |
-| model/best_model_2.13.0.h5 | File | trained model |
+| model/best_model_2.18.0.keras | File | trained model |
 | output | Dir | working directory |
 | _1_train.ipynb | File | create a model |
 | _2_predict.ipyno | File | prediect image(s) |
