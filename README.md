@@ -46,7 +46,7 @@
 | dataset | Dir | image files|
 | dataset/images.zip | File | a compressed file of 810 photo images |
 | model | Dir | Machine learning model |
-| model/best_model_2.18.0.keras | File | trained model |
+| modelbest_model_2.20.0.keras | File | trained model |
 | output | Dir | working directory |
 | _1_train.ipynb | File | create a model |
 | _2_predict.ipyno | File | prediect image(s) |
