@@ -19,8 +19,6 @@
 
 <br>
 
-* Setup dataset
-  * Execute Jupyter notebook : **setup_dataset.ipynb**<br>
 
 * Create a model
   * Execute Jupyter notebook : **_1_train.ipynb**<br>
@@ -34,7 +32,7 @@
 
 # 3. System
 * OS: Windows 10/11, Ubuntu 20.04.6 LTS<br>
-* Python 3.13.7<br>
+* Python 3.13.11<br>
 * Python Libraries: See the requirements.txt file
 
 <br>
